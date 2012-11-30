@@ -1,5 +1,11 @@
 Project Plan
-   Nama Anggota
+1.Riza Dwi P sebagai Leader, Testing
+2.Yohan Agusta sebagai Implementation
+3.Tri Arini Titisingtyas sebagai Design
+4.Onny Inda T. sebagai Analysis
+5.Nursanti Novi A sebagai Planning
+6.Oni Budi S. Sebagai Documentation
+
    Apa yang akan dibuat
    Jadwal Kegiatan
    Software Development Method
